@@ -1,0 +1,3512 @@
+{
+  "Harold": {
+    "name": "Harold",
+    "cols": 7,
+    "rows": 8,
+    "anchorX": 0.37,
+    "anchorY": 0.75,
+    "sampleImg": "J:\\Markevil\\Documents\\Games\\Project13\\img\\characters\\%Harold-1.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          8
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          15
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          22
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          7,
+          8,
+          9,
+          8
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          14,
+          15,
+          16,
+          15
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          21,
+          22,
+          23,
+          22
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          5,
+          4,
+          3,
+          3
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          12,
+          11,
+          10,
+          10
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          17,
+          18,
+          19,
+          19
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          26,
+          25,
+          24,
+          24
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          6
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          20
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          27
+        ]
+      }
+    }
+  },
+  "main1": {
+    "name": "main1",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%main1-1.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          16
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          28
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          40
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          6,
+          7,
+          8,
+          7
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          18,
+          19,
+          20,
+          19
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          30,
+          31,
+          32,
+          31
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          42,
+          43,
+          44,
+          43
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          9,
+          48,
+          49,
+          49
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          21,
+          60,
+          61,
+          61
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          33,
+          72,
+          73,
+          73
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          45,
+          84,
+          85,
+          85
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          52
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          64
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          76
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          88
+        ]
+      },
+      "sit2": {
+        "name": "sit2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          55
+        ]
+      },
+      "sit4": {
+        "name": "sit4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          69
+        ]
+      },
+      "sit6": {
+        "name": "sit6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "sit8": {
+        "name": "sit8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          90
+        ]
+      }
+    }
+  },
+  "main2": {
+    "name": "main2",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%main2-1.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          16
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          28
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          40
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          6,
+          7,
+          8,
+          7
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          18,
+          19,
+          20,
+          19
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          30,
+          31,
+          32,
+          31
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          42,
+          43,
+          44,
+          43
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          10,
+          10,
+          48,
+          48
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          22,
+          22,
+          60,
+          60
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          33,
+          33,
+          72,
+          72
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          46,
+          46,
+          84,
+          84
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          52
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          63
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          76
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          88
+        ]
+      }
+    }
+  },
+  "main3": {
+    "name": "main3",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%main3-1.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          9,
+          48,
+          49,
+          49
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          21,
+          60,
+          61,
+          61
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          33,
+          72,
+          73,
+          73
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          45,
+          84,
+          85,
+          85
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          52
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          64
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          76
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          88
+        ]
+      },
+      "sit2": {
+        "name": "sit2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          55
+        ]
+      },
+      "sit4": {
+        "name": "sit4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          69
+        ]
+      },
+      "sit6": {
+        "name": "sit6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "sit8": {
+        "name": "sit8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          90
+        ]
+      }
+    }
+  },
+  "duc1": {
+    "name": "duc1",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%duc1-1.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          10
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          22
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          34
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          46
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          48,
+          48,
+          49,
+          49,
+          50,
+          50
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          60,
+          60,
+          61,
+          61,
+          62,
+          62
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          74,
+          74,
+          73,
+          73,
+          72,
+          72
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          84,
+          84,
+          85,
+          85,
+          86,
+          86
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      }
+    }
+  },
+  "duc2": {
+    "name": "duc2",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%duc2-1.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          7
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          19
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          32
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          44
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          6,
+          7,
+          8,
+          7
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          18,
+          19,
+          20,
+          19
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          30,
+          31,
+          32,
+          31
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          42,
+          43,
+          44,
+          43
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          3,
+          3,
+          4,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          15,
+          15,
+          16,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          27,
+          27,
+          28,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          39,
+          39,
+          40,
+          40
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      }
+    }
+  },
+  "boss1": {
+    "name": "boss1",
+    "cols": 7,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%boss1-1.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          8
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          15
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          22
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          7,
+          8,
+          9,
+          8
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          14,
+          15,
+          16,
+          15
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          21,
+          22,
+          23,
+          22
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          8
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          15
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 15,
+        "adjust": false,
+        "pattern": [
+          22
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          33
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          40
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          47
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          54
+        ]
+      },
+      "jumpstart2": {
+        "name": "jumpstart2",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          29,
+          29,
+          28,
+          28
+        ]
+      },
+      "jumpstart4": {
+        "name": "jumpstart4",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          38,
+          37,
+          36,
+          35
+        ]
+      },
+      "jumpstart6": {
+        "name": "jumpstart6",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "jumpstart8": {
+        "name": "jumpstart8",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          50,
+          50,
+          49,
+          49
+        ]
+      },
+      "jumpend2": {
+        "name": "jumpend2",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          28,
+          28,
+          29,
+          29
+        ]
+      },
+      "jumpend4": {
+        "name": "jumpend4",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "jumpend6": {
+        "name": "jumpend6",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          45,
+          44,
+          43,
+          42
+        ]
+      },
+      "jumpend8": {
+        "name": "jumpend8",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          49,
+          49,
+          50,
+          50
+        ]
+      }
+    }
+  },
+  "zombie1": {
+    "name": "zombie1",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%zombie1.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          4,
+          6,
+          9,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          16,
+          18,
+          21,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          28,
+          30,
+          33,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          41,
+          42,
+          45,
+          41
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          58
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          82
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          94
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  },
+  "zombie2": {
+    "name": "zombie2",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%zombie2.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 16,
+        "adjust": false,
+        "pattern": [
+          4,
+          7,
+          10,
+          5
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 16,
+        "adjust": false,
+        "pattern": [
+          15,
+          18,
+          21,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 16,
+        "adjust": false,
+        "pattern": [
+          29,
+          30,
+          33,
+          29
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 16,
+        "adjust": false,
+        "pattern": [
+          40,
+          42,
+          44,
+          40
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          58
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          82
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          94
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  },
+  "zombie3": {
+    "name": "zombie3",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%zombie3.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          4,
+          6,
+          9,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          16,
+          18,
+          21,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          28,
+          30,
+          33,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          41,
+          42,
+          45,
+          41
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          58
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          82
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          94
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  },
+  "zombie4": {
+    "name": "zombie4",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%zombie4.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          4,
+          6,
+          9,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          16,
+          18,
+          21,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          28,
+          30,
+          33,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          41,
+          42,
+          45,
+          41
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          58
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          82
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          94
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  },
+  "zombie5": {
+    "name": "zombie5",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%zombie5.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          4,
+          6,
+          9,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          16,
+          18,
+          21,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          28,
+          30,
+          33,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          41,
+          42,
+          45,
+          41
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          58
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          82
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          94
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  },
+  "zombie6": {
+    "name": "zombie6",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%zombie6.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          4,
+          6,
+          9,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          16,
+          18,
+          21,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          28,
+          30,
+          33,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          41,
+          42,
+          45,
+          41
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          58
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          82
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          94
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  },
+  "zombie7": {
+    "name": "zombie7",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%zombie7.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          4,
+          6,
+          9,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          16,
+          18,
+          21,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          28,
+          30,
+          33,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          41,
+          42,
+          45,
+          41
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          58
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          82
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          94
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  },
+  "zombie8": {
+    "name": "zombie8",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%zombie8.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          4,
+          6,
+          9,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          16,
+          18,
+          21,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          28,
+          30,
+          33,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          41,
+          42,
+          45,
+          41
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          58
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          82
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          94
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  },
+  "zombie9": {
+    "name": "zombie9",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%zombie9.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          4,
+          6,
+          9,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          16,
+          18,
+          21,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          28,
+          30,
+          33,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          41,
+          42,
+          45,
+          41
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          58
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          82
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          94
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  },
+  "zombie10": {
+    "name": "zombie10",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%zombie10.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          4,
+          6,
+          9,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          16,
+          18,
+          21,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          28,
+          30,
+          33,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          41,
+          42,
+          45,
+          41
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          58
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          70
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          82
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          94
+        ]
+      },
+      "die2": {
+        "name": "die2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "die4": {
+        "name": "die4",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "die6": {
+        "name": "die6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "die8": {
+        "name": "die8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  },
+  "tructhang": {
+    "name": "tructhang",
+    "cols": 3,
+    "rows": 4,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%tructhang.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          2
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          4
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          8
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          11
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          3,
+          4,
+          5
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          6,
+          7,
+          8
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          9,
+          10,
+          11
+        ]
+      }
+    }
+  },
+  "quandoi": {
+    "name": "quandoi",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\khoaluan\\scr\\Game\\img\\characters\\%quandoi.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          13
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          37
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          1
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          13
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          25
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 13,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          37
+        ]
+      },
+      "attack2": {
+        "name": "attack2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          3,
+          4,
+          3,
+          4
+        ]
+      },
+      "attack4": {
+        "name": "attack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          15,
+          16,
+          17,
+          16
+        ]
+      },
+      "attack6": {
+        "name": "attack6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          27,
+          28,
+          29,
+          28
+        ]
+      },
+      "attack8": {
+        "name": "attack8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          39,
+          40,
+          41,
+          40
+        ]
+      },
+      "hurt2": {
+        "name": "hurt2",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "hurt4": {
+        "name": "hurt4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          61
+        ]
+      },
+      "hurt6": {
+        "name": "hurt6",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      },
+      "hurt8": {
+        "name": "hurt8",
+        "speed": 1,
+        "adjust": false,
+        "pattern": [
+          85
+        ]
+      }
+    }
+  }
+}
